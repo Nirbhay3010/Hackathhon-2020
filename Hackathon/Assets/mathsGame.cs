@@ -45,7 +45,7 @@ public class mathsGame : MonoBehaviour
                 number2.GetComponent<Text>().text = b_sub.ToString();
                 break;
                 case 3:
-                    op = '*';
+                    op = 'x';
                     ans = a_m * b_m;
                 number1.GetComponent<Text>().text = a_m.ToString();
                 number2.GetComponent<Text>().text = b_m.ToString();
@@ -112,7 +112,7 @@ public class mathsGame : MonoBehaviour
             ansDisplay.GetComponent<Text>().text = "Wrong";
         }
 
-        if (i < 100)
+        if (i < 10)
         { 
             Awake();
             inputField.text = "";
