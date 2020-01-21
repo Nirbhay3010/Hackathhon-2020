@@ -54,12 +54,18 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\form.cs" />
+     <Compile Include="Assets\ibt.cs" />
      <Compile Include="Assets\loader.cs" />
      <Compile Include="Assets\mathsGame.cs" />
      <Compile Include="Assets\mm.cs" />
      <Compile Include="Assets\rball.cs" />
+     <Compile Include="Assets\Scripts\AddButtons.cs" />
+     <Compile Include="Assets\Scripts\GameController.cs" />
+     <Compile Include="Assets\Scripts\Pausescript.cs" />
+     <Compile Include="Assets\Scripts\Timer.cs" />
      <Compile Include="Assets\spotit.cs" />
      <Compile Include="Assets\wball.cs" />
+     <Compile Include="Assets\week.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/user/Documents/Hackathon/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>

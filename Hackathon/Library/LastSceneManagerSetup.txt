@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/spotit.unity
+- path: Assets/Scenes/form.unity
   isLoaded: 1
   isActive: 1

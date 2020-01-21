@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/weekly.unity
     guid: f4a6512a3e2e87e42a451d60d66cd44c
+  - enabled: 1
+    path: Assets/Scenes/load.unity
+    guid: 4a93a36f050f2bd4f89c28579a9adeb6
+  - enabled: 1
+    path: Assets/Scenes/ibt.unity
+    guid: c5013bb257fc29446bf8b83f2cdba21d
   m_configObjects: {}
